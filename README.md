@@ -1,6 +1,1 @@
-This is the second README.md file!
-
-
-Hee!
-Ya!
-Hee!
+This repo experiments some core git features like branches, remotes, etc.
